@@ -4,4 +4,5 @@ The file 16S_Thaum_aligned_cgr.fasta possesses the fasta sequences corresponding
 Alignments and Phylogenies directories contain the supermatrix alignments and the reconstructed phylogenies for:
 Dataset 1: 19 Gagatemarchaeaceae genomes, two UBA141-like genomes and three AOA
 Dataset 2: 64 genomes of Thaumarchaeota and related species (completeness > 45%, contamination < 10%)
-Dataset 3: 52 higher-quality genomes of Thaumarchaeota and closely related species (completeness > 70%, contamination < 5%) 
+Dataset 3: 52 higher-quality genomes of Thaumarchaeota and closely related species (completeness > 70%, contamination < 5%)
+
